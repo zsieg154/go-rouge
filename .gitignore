@@ -17,3 +17,6 @@ vendor/
 # ide excludes
 .idea
 .vs_code
+
+#Project Binarys
+/cmd/game-name/game-name
